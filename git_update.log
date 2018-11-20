@@ -1,3 +1,0 @@
-Tue, 20 Nov 2018 22:06:45 log.py[line:37] DEBUG b''
-Tue, 20 Nov 2018 22:06:45 log.py[line:37] DEBUG b"On branch master\nYour branch is up to date with 'origin/master'.\n\nUntracked files:\n\tgit_update.log\n\nnothing added to commit but untracked files present\n"
-Tue, 20 Nov 2018 22:06:53 log.py[line:37] DEBUG b"Branch 'master' set up to track remote branch 'master' from 'origin'.\n"
