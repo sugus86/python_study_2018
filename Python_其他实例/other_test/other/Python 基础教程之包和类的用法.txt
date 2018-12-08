@@ -1,0 +1,97 @@
+Python 基础教程之包和类的用法
+建立一个文件夹filePackage 
+在filePackage 文件夹内创建 __init__.py 
+有了 __init__.py ，filePackage才算是一个包，否则只是算一个普通文件夹。
+在filePackage 文件夹内创建 file.py 
+file.py 代码如下：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+ 
+from datetime import datetime
+ 
+class MyFile():
+ 
+ def __init__(self, filepath):
+  print('MyFile init...')
+  self.filepath = filepath
+ 
+ def printFilePath(self):
+  print(self.filepath)
+ 
+ def testReadFile(self):
+  with open(self.filepath, 'r') as f:
+   s = f.read()
+   print('open for read...')
+   print(s)
+ 
+ def testWriteFile(self):
+  with open('test.txt', 'w') as f:
+   f.write('今天是 ')
+   f.write(datetime.now().strftime('%Y-%m-%d'))
+__init__.py 代码如下：
+?
+1
+from file import MyFile
+把本模块里面的 公用的类 方法 暴漏出来
+然后 外面的引用 不用找到具体的现实位置，找到包的__init__ 就好了
+建立main.py 和 filePackage 平级， 
+main.py 代码如下：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+ 
+from filePackage import MyFile
+ 
+if __name__ == '__main__':
+ a = MyFile("./filePackage/test.txt")
+ a.printFilePath();
+ a.testReadFile();
+目录结构： 
+
+若 __init__.py 里什么也不写，那么在main.py里也可以这样写：
+?
+1
+2
+3
+4
+import filePackage.file
+if __name__ == '__main__':
+ a = filePackage.file.MyFile("./filePackage/test.txt")
+ a.printFilePath();
+但不建议这样写，建议按上面的方法将模块里的公用类暴露出来，直接引用。
+感谢阅读，希望能帮助到大家，谢谢大家对本站的支持！
+原文链接：http://blog.csdn.net/liukang325/article/details/46724365

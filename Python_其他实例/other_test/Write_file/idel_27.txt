@@ -1,0 +1,1137 @@
+﻿BW-L2-Switch#show poe interface GigabitEthernet 0/11
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :77mA
+ Port Voltage                  :54.3V
+
+BW-L2-Switch#
+BW-L2-Switch#
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :80mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :72mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4200mW
+ Port Max Power                :36000mW
+ Port Current                  :72mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :83mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :78mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :76mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :77mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :79mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :86mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :75mA
+ Port Voltage                  :54.6V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :85mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :86mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/11
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4300mW
+ Port Max Power                :36000mW
+ Port Current                  :84mA
+ Port Voltage                  :54.3V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :132mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4100mW
+ Port Max Power                :36000mW
+ Port Current                  :70mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :80mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/11
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4900mW
+ Port Max Power                :36000mW
+ Port Current                  :92mA
+ Port Voltage                  :54.3V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :81mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4200mW
+ Port Max Power                :36000mW
+ Port Current                  :80mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4300mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :94mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :84mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :82mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :83mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :86mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :79mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :5100mW
+ Port Max Power                :36000mW
+ Port Current                  :77mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4600mW
+ Port Max Power                :36000mW
+ Port Current                  :82mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :89mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :9400mW
+ Port Max Power                :36000mW
+ Port Current                  :83mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :82mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4100mW
+ Port Max Power                :36000mW
+ Port Current                  :89mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :68mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4100mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :72mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4200mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :69mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4600mW
+ Port Max Power                :36000mW
+ Port Current                  :69mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :5400mW
+ Port Max Power                :36000mW
+ Port Current                  :88mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :73mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :69mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4100mW
+ Port Max Power                :36000mW
+ Port Current                  :69mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :122mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :76mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :84mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :88mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :86mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :136mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :81mA
+ Port Voltage                  :54.3V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :72mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :78mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :72mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :95mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4300mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4200mW
+ Port Max Power                :36000mW
+ Port Current                  :80mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4300mW
+ Port Max Power                :36000mW
+ Port Current                  :75mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :72mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :80mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :88mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :85mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :135mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :82mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :79mA
+ Port Voltage                  :54.6V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :7400mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :85mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4200mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :82mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4300mW
+ Port Max Power                :36000mW
+ Port Current                  :78mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4400mW
+ Port Max Power                :36000mW
+ Port Current                  :82mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :7100mW
+ Port Max Power                :36000mW
+ Port Current                  :81mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4300mW
+ Port Max Power                :36000mW
+ Port Current                  :85mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :75mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :83mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :146mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4100mW
+ Port Max Power                :36000mW
+ Port Current                  :78mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4600mW
+ Port Max Power                :36000mW
+ Port Current                  :84mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4200mW
+ Port Max Power                :36000mW
+ Port Current                  :79mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :69mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :79mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4700mW
+ Port Max Power                :36000mW
+ Port Current                  :85mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.6V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3700mW
+ Port Max Power                :36000mW
+ Port Current                  :71mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :78mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :78mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4500mW
+ Port Max Power                :36000mW
+ Port Current                  :73mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4000mW
+ Port Max Power                :36000mW
+ Port Current                  :84mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4100mW
+ Port Max Power                :36000mW
+ Port Current                  :74mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :4600mW
+ Port Max Power                :36000mW
+ Port Current                  :77mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :70mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :80mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :76mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :5100mW
+ Port Max Power                :36000mW
+ Port Current                  :129mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :83mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :77mA
+ Port Voltage                  :54.4V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3900mW
+ Port Max Power                :36000mW
+ Port Current                  :76mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#show poe interface gi0/20
+ Port Power Enabled            :enable
+ Port Power Priority           :low
+ Port Operating Status         :on
+ Port IEEE Class               :4
+ Port Detection Status         :PD Detected(1)
+ Port Current Power            :3800mW
+ Port Max Power                :36000mW
+ Port Current                  :86mA
+ Port Voltage                  :54.5V
+
+BW-L2-Switch#
+BW-L2-Switch#

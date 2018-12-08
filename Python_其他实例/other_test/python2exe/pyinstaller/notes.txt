@@ -1,0 +1,33 @@
+
+
+总结
+PyInstaller，的确非常好用啊。感谢作者们。
+
+简单总结其使用方法：
+
+生成单一的exe文件：
+1
+pyinstaller.py -F ..\BlogsToWordpress\BlogsToWordpress.py
+添加必要的搜索路径：
+1
+pyinstaller.py -F -p D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\crifan;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\crifan\blogModules;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\thirdparty;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\thirdparty\chardet; ..\BlogsToWordpress\BlogsToWordpress.py
+添加必要的搜索路径，且带图标：
+1
+pyinstaller.py -F -p D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\crifan;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\crifan\blogModules;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\thirdparty;D:\tmp\tmp_dev_root\python\tutorial_summary\make_exe\BlogsToWordpress\libs\thirdparty\chardet; -i ..\BlogsToWordpress\BlogsToWordpress.ico ..\BlogsToWordpress\BlogsToWordpress.py
+ 
+
+需要注意的是：
+
+1.检查生成的
+
+pyinstaller-2.0\XXX\build\pyi.win32\XXX\warnXXX.txt
+
+(XXX是你的项目名）
+
+中，是否缺少了必要的模块。
+
+如果有缺少的，那么去如上所述，添加必要的搜素路径，使得pyinstaller在运行时，可以找到对应的模块并集成进来。
+
+2.此处我这里没有UPX，暂时没去折腾。
+
+估计是用UPX去压缩，压缩后所生成的exe文件的大小，会小得多。
